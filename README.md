@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Avishka Eranjan</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
@@ -17,18 +17,18 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **scalable web applications**
-- 🌱 I’m learning **cloud, system design, and backend architecture**
-- 💬 Ask me about **Java, Spring Boot, React, Node.js, SQL**
-- ⚡ Fun fact: **I enjoy turning complex problems into simple solutions**
-- 📫 Reach me at: **[your email here]**
+- 🔭 I’m currently working on **scalable web & mobile applications**
+- 🌱 I’m learning **Cloud Computing, System Design & Backend Architecture**
+- 💬 Ask me about **Java, Spring Boot, React, Firebase, MySQL**
+- ⚡ I enjoy turning complex problems into simple solutions
+- 📫 Reach me at: **avishkaeranjan2001.best@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,html,css,mysql,mongodb,firebase,git,github,vscode,linux" />
 </p>
 
 ---
@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=E6EDF3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avishka-eranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=E6EDF3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka-eranjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3" />
 </p>
 
 ---
@@ -47,21 +47,21 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project One</h3>
+      <h3 align="center">EchoHelth</h3>
       <p align="center">
-        A short line about what this project does and why it is useful.
+        A healthcare system designed to manage patient data, appointments, and medical workflows efficiently.
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/project-one">View Code</a>
+        <a href="https://github.com/avishka-eranjan/EchoHelth">View Code</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Project Two</h3>
+      <h3 align="center">CamOne</h3>
       <p align="center">
-        Another project description with a strong impact line.
+        A modern camera-related application focused on capturing, managing, and enhancing visual content.
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/project-two">View Code</a>
+        <a href="https://github.com/avishka-eranjan/CamOne">View Code</a>
       </p>
     </td>
   </tr>
@@ -72,13 +72,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/avishka-eranjan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:avishkaeranjan2001.best@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -86,20 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=avishka-eranjan&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="profile views" />
 </p>
-
-<!--
-**avishka-eranjan/avishka-eranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
