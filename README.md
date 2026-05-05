@@ -1,6 +1,7 @@
 <!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm [Avishka Eranjan]</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avishka-eranjan/profile-assets/main/banner.png" alt="banner" />
+</p>
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
@@ -36,20 +37,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avishka-eranjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=E6EDF3" />
   
   <img height="165" src="https://streak-stats.demolab.com?user=avishka-eranjan&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka-eranjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3" />
-</p>
 
----
+<!-- <p>🚀 Featured Projects</p>  -->
 
-## 🚀 Featured Projects
-
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <h3 align="center">Project One</h3>
@@ -70,7 +65,7 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
