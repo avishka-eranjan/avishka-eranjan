@@ -86,5 +86,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="profile views" />
+ <img src="https://komarev.com/ghpvc/?username=avishka-eranjan&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="profile views" />
 </p>
